@@ -10,6 +10,8 @@
 ### Writeup
 #### 1. The write-up conveys the an understanding of the network architecture.
 
+![example](/images/example.png)
+
 The student clearly explains each layer of the network architecture and the role that it plays in the overall network. The student can demonstrate the benefits and/or drawbacks of different network architectures pertaining to this project and can justify the current network with factual data. Any choice of configurable parameters should also be explained in the network architecture.
 
 The student shall also provide a graph, table, diagram, illustration or figure for the overall network to serve as a reference for the reviewer.
